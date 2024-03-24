@@ -1,12 +1,25 @@
 # 💫 About Me:
 🙋🏽‍♂️ Oiii! Sou Emanuel Oliveira<br><br>📚 Estou cursando Ciência da Computação<br>🖥️ Em Busca de um estágio<br>🧑🏾‍💻 Atuando no Back-end
-
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/_emanuelfoliveira/) 
+<br>
+<br>
 
 # 💻 Tech Stack:
-[![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.google.com/url?sa=i&url=https%3A%2F%2Fjhrl.medium.com%2Fanalise-de-performance-em-java-4dceae2cd723&psig=AOvVaw2k9afJqhwLn10hMXHyDgm2&ust=1709406636852000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCPCS2Yzi04QDFQAAAAAdAAAAABAD) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+<div style="display: inline_block">
+  <img align="center" alt="Emanu-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Emanu-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Emanu-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
+  <img align="center" alt="Emanu-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Emanue-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />          
+</div>
+<br>
+<br>
+
+## 🌐 Socials:
+<div> 
+  <a href="https://instagram.com/_emanuelfoliveira" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+</div>
+<br>
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=EmafPlayer&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=EmafPlayer&theme=nightowl&hide_border=false)<br/>
@@ -15,4 +28,3 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=EmafPlayer&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
