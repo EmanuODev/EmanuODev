@@ -1,5 +1,5 @@
 # 💫 About Me:
-🙋🏽‍♂️ Oiii! Sou Emanuel Oliveira<br><br>📚 Estou cursando Ciência da Computação<br>🖥️ Em Busca de um estágio<br>🧑🏾‍💻 Desenvolvedor Full-Stack
+🙋🏽‍♂️ Oiii! Sou Emanuel Oliveira<br><br>📚 Estou cursando Ciência da Computação<br>🖥️ Em Busca de um estágio<br>🧑🏾‍💻 Atuando como Full-Stack
 <br>
 <br>
 
