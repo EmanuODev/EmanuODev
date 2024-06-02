@@ -1,5 +1,5 @@
 <div>
-  <img height="550" width="1000" align="center" alt="coding-time" src="Gif.gif">
+  <img height="500" width="1000" align="center" alt="coding-time" src="Gif.gif">
 </div>
 <br>
 <br>
