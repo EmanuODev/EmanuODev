@@ -1,10 +1,16 @@
+<div>
+  <img height="550" width="1000" align="center" alt="coding-time" src="Gif.gif">
+</div>
+<br>
+<br>
+
 # 💫 About Me:
 🙋🏽‍♂️ Oiii! Sou Emanuel Oliveira<br><br>📚 Estou cursando Ciência da Computação<br>🖥️ Em Busca de um estágio<br>🧑🏾‍💻 Full-Stack Developer
 <br>
 <br>
 
 # 💻 Tech Stack:
-<div style="display: inline_block">
+<div ">
   <img align="center" alt="Emanu-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Emanu-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Emanu-Tailwind" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />          
