@@ -5,8 +5,10 @@
 <br>
 
 # 💫 About Me:
-🙋🏽‍♂️ Oiii! Sou Emanuel Oliveira<br><br>📚 Estou cursando Ciência da Computação<br>🖥️ Em Busca de um estágio<br>🧑🏾‍💻 Full-Stack Developer
-<br>
+🙋🏽‍♂️ Oiii! Sou Emanuel Oliveira<br><br>
+📚 Estou cursando Ciência da Computação na Universidade Federal do Vale do São Francisco<br>
+🧑🏾‍💻 Full-Stack Developer<br>
+🖥️ Em Busca de um estágio<br>
 <br>
 
 # 💻 Tech Stack:
