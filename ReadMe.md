@@ -30,6 +30,7 @@
   <a href="https://www.linkedin.com/in/emanuel-oliveira-9a8758302/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </div>
 <br>
+<br>
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=EmafPlayer&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false)<br/>
