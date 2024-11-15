@@ -12,16 +12,19 @@
 <br>
 
 # 💻 Tech Stack:
-<div ">
-  <img align="center" alt="Emanu-HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Emanu-CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Emanu-Tailwind" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />          
-  <img align="center" alt="Emanu-Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Emanu-React" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Emanu-C" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
-  <img align="center" alt="Emanu-PHP" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg">
-  <img align="center" alt="Emanu-Java" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
-  <img align="center" alt="Emanu-MySQL" height="55" width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-plain-wordmark.svg" />         
+<div>
+  <img align="center" alt="Emanu-HTML" height="50" width="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg">
+  <img align="center" alt="Emanu-CSS" height="50" width="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg">
+  <img align="center" alt="Emanu-Tailwind" height="50" width="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/TailwindCSS-Dark.svg" />          
+  <img align="center" alt="Emanu-Js" height="50" width="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg">
+  <img align="center" alt="Emanu-Ts" height="50" width="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/TypeScript.svg">
+  <img align="center" alt="Emanu-React" height="50" width="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg">
+  <img align="center" alt="Emanu-C" height="50" width="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/C.svg" />
+  <img align="center" alt="Emanu-PHP" height="50" width="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/PHP-Dark.svg">
+  <img align="center" alt="Emanu-Laravel" height="50" width="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Laravel-Dark.svg">
+  <img align="center" alt="Emanu-Java" height="50" width="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg" />
+  <img align="center" alt="Emanu-SpringBoot" height="50" width="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Spring-Dark.svg" />
+  <img align="center" alt="Emanu-MySQL" height="50" width="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg" />         
 </div>
 <br>
 <br>
