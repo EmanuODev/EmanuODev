@@ -24,7 +24,8 @@
   <img align="center" alt="Emanu-Laravel" height="50" width="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Laravel-Dark.svg">
   <img align="center" alt="Emanu-Java" height="50" width="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg" />
   <img align="center" alt="Emanu-SpringBoot" height="50" width="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Spring-Dark.svg" />
-  <img align="center" alt="Emanu-MySQL" height="50" width="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg" />         
+  <img align="center" alt="Emanu-MySQL" height="50" width="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg" />    
+  <img align="center" alt="Emanu-Docker" height="50" width="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Docker.svg" />    
 </div>
 <br>
 <br>
